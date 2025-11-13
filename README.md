@@ -197,9 +197,6 @@ An up-to-date library on all papers and codes relevant to my PhD
 - Localizing Knowledge in Diffusion Transformers [[pdf]](https://arxiv.org/pdf/2505.18832) [[code]](https://github.com/ArmanZarei/DiT-Knowledge-Localization) [[website]](https://armanzarei.github.io/Localizing-Knowledge-in-DiTs/)
 - Extracting Training Data from Diffusion Models [[pdf]](https://arxiv.org/pdf/2301.13188)
 
-## Distill Papers
-- [Distill](https://distill.pub/) 
-
 ## LLM Understanding
 - Interpreting GPT: The Logit Lens [[blog]](https://www.lesswrong.com/posts/AcKRB8wDpdaN6v6ru/interpreting-gpt-the-logit-lens)
 - Locating and Editing Factual Associations in GPT [[pdf]](https://arxiv.org/pdf/2202.05262.pdf) [[code]](https://github.com/kmeng01/rome) [[colab]](https://colab.research.google.com/github/kmeng01/rome/blob/main/notebooks/rome.ipynb) [[colab]](https://colab.research.google.com/github/kmeng01/rome/blob/main/notebooks/causal_trace.ipynb) [[video]](https://www.youtube.com/watch?v=_NMQyOu2HTo&ab_channel=YannicKilcher) [[website]](https://rome.baulab.info/)
