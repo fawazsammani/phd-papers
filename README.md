@@ -48,6 +48,7 @@ An up-to-date library on all papers and codes relevant to my PhD
 - **[Dropout Decoding]** From Uncertainty to Trust: Enhancing Reliability in Vision-Language Models with Uncertainty-Guided Dropout Decoding [[pdf]](https://arxiv.org/pdf/2412.06474) [[code]](https://github.com/kigb/DropoutDecoding) 
 
 ## Interpreting and Analyzing VLMs
+- Generic Attention-model Explainability for Interpreting Bi-Modal and Encoder-Decoder Transformers [[pdf]](https://arxiv.org/pdf/2103.15679.pdf) [[code]](https://github.com/hila-chefer/Transformer-MM-Explainability) 
 - Can we talk models into seeing the world differently? [[pdf]](https://openreview.net/pdf?id=iVMcYxTiVM) [[code]](https://github.com/paulgavrikov/vlm_shapebias)
 - Eyes Wide Shut? Exploring the Visual Shortcomings of Multimodal LLMs [[pdf]](https://arxiv.org/pdf/2401.06209)
 - Why are Visually-Grounded Language Models Bad at Image Classification? [[pdf]](https://arxiv.org/pdf/2405.18415) [[code]](https://github.com/yuhui-zh15/VLMClassifier) [[website]](https://yuhui-zh15.github.io/VLMClassifier-Website/)
