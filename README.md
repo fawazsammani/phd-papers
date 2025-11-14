@@ -48,10 +48,10 @@ An up-to-date library on all papers and codes relevant to my PhD
 - **[Dropout Decoding]** From Uncertainty to Trust: Enhancing Reliability in Vision-Language Models with Uncertainty-Guided Dropout Decoding [[pdf]](https://arxiv.org/pdf/2412.06474) [[code]](https://github.com/kigb/DropoutDecoding) 
 
 ## Interpreting and Analyzing VLMs
-- Generic Attention-model Explainability for Interpreting Bi-Modal and Encoder-Decoder Transformers [[pdf]](https://arxiv.org/pdf/2103.15679.pdf) [[code]](https://github.com/hila-chefer/Transformer-MM-Explainability) 
 - Can we talk models into seeing the world differently? [[pdf]](https://openreview.net/pdf?id=iVMcYxTiVM) [[code]](https://github.com/paulgavrikov/vlm_shapebias)
 - Eyes Wide Shut? Exploring the Visual Shortcomings of Multimodal LLMs [[pdf]](https://arxiv.org/pdf/2401.06209)
 - Why are Visually-Grounded Language Models Bad at Image Classification? [[pdf]](https://arxiv.org/pdf/2405.18415) [[code]](https://github.com/yuhui-zh15/VLMClassifier) [[website]](https://yuhui-zh15.github.io/VLMClassifier-Website/)
+- Multimodal Neurons in Artificial Neural Networks [[pdf]](https://distill.pub/2021/multimodal-neurons/)
 - Multimodal Neurons in Pretrained Text-Only Transformers [[pdf]](https://arxiv.org/pdf/2308.01544.pdf) [[website]](https://multimodal-interpretability.csail.mit.edu/Multimodal-Neurons-in-Text-Only-Transformers/)
 - Towards Interpreting Visual Information Processing in Vision-Language Models [[pdf]](https://openreview.net/pdf?id=chanJGoa7f) [[code]](https://github.com/clemneo/llava-interp) [[demo]](https://clementneo.com/llava_logit_lens/) 
 - Mechanistic Interpretability Meets Vision Language Models: Insights and Limitations [[blog]](https://d2jud02ci9yv69.cloudfront.net/2025-04-28-vlm-understanding-29/blog/vlm-understanding/)
@@ -78,11 +78,8 @@ An up-to-date library on all papers and codes relevant to my PhD
 - **[LiMBeR]** Linearly Mapping from Image to Text Space [[pdf]](https://openreview.net/pdf?id=8tYRqb05pVn) [[code]](https://github.com/jmerullo/limber)
 - **[Cambrian-1]** A Fully Open, Vision-Centric Exploration of Multimodal LLMs [[pdf]](https://openreview.net/pdf?id=Vi8AepAXGy) [[code]](https://github.com/cambrian-mllm/cambrian) [[website]](https://cambrian-mllm.github.io/) [[models]](https://huggingface.co/collections/nyu-visionx/cambrian-1-models-666fa7116d5420e514b0f23c)
 - **[CoX-LMM]** A Concept-Based Explainability Framework for Large Multimodal Models [[pdf]](https://openreview.net/pdf?id=MvjLRFntW6) [[code]](https://github.com/mshukor/xl-vlms)
-- **[CLIP-AFT]** Boosting the visual interpretability of CLIP via adversarial fine-tuning [[pdf]](https://openreview.net/pdf?id=khuIvzxPRp) [[code]](https://github.com/peterant330/CLIP_AFT)
-- **[ECLIP]** Exploring Visual Explanations for Contrastive Language-Image Pre-training [[pdf]](https://arxiv.org/pdf/2209.07046.pdf)
 - **[CLIP as RNN]** Segment Countless Visual Concepts without Training Endeavor [[pdf]](https://arxiv.org/pdf/2312.07661) [[code]](https://github.com/google-research/google-research/tree/master/clip_as_rnn) [[website]](https://torrvision.com/clip_as_rnn/)
 - **[CLIP-ES]** A Text-Driven Approach for Weakly Supervised Semantic Segmentation [[pdf]](https://arxiv.org/pdf/2212.09506) [[code]](https://github.com/linyq2117/CLIP-ES)
-- **[Grad-ECLIP]** Gradient-based Visual Explanation for Transformer-based CLIP [[pdf]](https://openreview.net/pdf?id=WT4X3QYopC) [[code]](https://github.com/Cyang-Zhao/Grad-Eclip)
 - **[SpLiCE]** Interpreting CLIP with Sparse Linear Concept Embeddings [[pdf]](https://openreview.net/pdf?id=7UyBKTFrtd) [[code]](https://github.com/AI4LIFE-GROUP/SpLiCE)
 - **[VDR]** Retrieval-based Disentangled Representation Learning with Natural Language Supervision [[pdf]](https://openreview.net/pdf?id=ZlQRiFmq7Y) [[code]](https://github.com/jzhoubu/VDR)
 - **[MMNeuron]** Discovering Neuron-Level Domain-Specific Interpretation in Multimodal Large Language Model [[pdf]](https://arxiv.org/pdf/2406.11193) [[code]](https://github.com/Z1zs/MMNeuron)
