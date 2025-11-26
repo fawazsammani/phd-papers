@@ -71,7 +71,9 @@ An up-to-date library on all papers and codes relevant to my PhD
 - Are Vision-Language Transformers Learning Multimodal Representations? A Probing Perspective [[pdf]](https://cdn.aaai.org/ojs/21375/21375-13-25388-1-2-20220628.pdf) [[code]](https://github.com/ejsalin/vlm-probing)
 - Probing Image–Language Transformers for Verb Understanding [[pdf]](https://arxiv.org/pdf/2106.09141)
 - Vision Language Models are Biased [[pdf]](https://arxiv.org/pdf/2505.23941) [[code]](https://github.com/anvo25/vlms-are-biased) [[website]](https://vlmsarebiased.github.io/)
-- Your Large Vision-Language Model Only Needs A Few Attention Heads For Visual Grounding [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/papers/Kang_Your_Large_Vision-Language_Model_Only_Needs_A_Few_Attention_Heads_CVPR_2025_paper.pdf)
+- Unveiling Visual Perception in Language Models: An Attention Head Analysis Approach [[pdf]](https://arxiv.org/pdf/2412.18108)
+- **[LocalizationHeads]** Your Large Vision-Language Model Only Needs A Few Attention Heads For Visual Grounding [[pdf]](https://arxiv.org/pdf/2503.06287) [[code]](https://github.com/seilk/LocalizationHeads)
+- **[LLaVA-CAM]** From Redundancy to Relevance: Information Flow in LVLMs Across Reasoning Tasks [[pdf]](https://aclanthology.org/2025.naacl-long.115.pdf) [[code]](https://github.com/zhangbaijin/From-Redundancy-to-Relevance)
 - **[LFA]** Black Box Few-Shot Adaptation for Vision-Language models [[pdf]](https://arxiv.org/pdf/2304.01752) [[code]](https://github.com/saic-fi/LFA)
 - **[IPLoc]** Teaching VLMs to Localize Specific Objects from In-context Examples [[pdf]](https://arxiv.org/pdf/2411.13317) [[code]](https://github.com/SivanDoveh/IPLoc)
 - **[PIN]** Positional Insert Unlocks Object Localisation Abilities in VLMs [[pdf]](https://arxiv.org/pdf/2402.08657) [[code]](https://github.com/QUVA-Lab/PIN/) [[website]](https://quva-lab.github.io/PIN/)
@@ -93,7 +95,8 @@ An up-to-date library on all papers and codes relevant to my PhD
 - **[MirrorCLIP]** Disentangling text from visual images through reflection [[pdf]](https://openreview.net/pdf?id=FYm8coxdiR) [[code]](https://github.com/tcwangbuaa/MirrorCLIP)
 - **[MMPerspective]** Do MLLMs Understand Perspective? A Comprehensive Benchmark for Perspective Perception, Reasoning, and Robustness [[pdf]](https://arxiv.org/pdf/2505.20426) [[code]](https://github.com/yunlong10/MMPerspective) [[website]](https://yunlong10.github.io/MMPerspective/)
 - **[DriveBench]** Are VLMs Ready for Autonomous Driving? An Empirical Study from the Reliability, Data, and Metric Perspectives [[pdf]](https://arxiv.org/pdf/2501.04003) [[code]](https://github.com/worldbench/drivebench) [[website]](https://drive-bench.github.io/)
-
+- **[AdaptVis]** Why Is Spatial Reasoning Hard for VLMs? An Attention Mechanism Perspective on Focus Areas [[pdf]](https://arxiv.org/pdf/2503.01773) [[code]](https://github.com/shiqichen17/AdaptVis)
+ 
 ## VLMs with Thinking/Reasoning
 - **[Multimodal-CoT]** Multimodal Chain-of-Thought Reasoning in Language Models [[pdf]](https://arxiv.org/pdf/2302.00923.pdf) [[code]](https://github.com/amazon-science/mm-cot)
 - **[CCoT]** Compositional Chain-of-Thought Prompting for Large Multimodal Models [[pdf]](https://arxiv.org/pdf/2311.17076.pdf) [[code]](https://github.com/chancharikmitra/CCoT)
@@ -102,6 +105,7 @@ An up-to-date library on all papers and codes relevant to my PhD
 - **[TextCoT]** Zoom In for Enhanced Multimodal Text-Rich Image Understanding [[pdf]](https://arxiv.org/pdf/2404.09797) [[code]](https://github.com/bzluan/TextCoT)
 - **[Visual CoT]** Advancing Multi-Modal Language Models with a Comprehensive Dataset and Benchmark for Chain-of-Thought Reasoning [[pdf]](https://arxiv.org/pdf/2403.16999) [[code]](https://github.com/deepcs233/Visual-CoT) [[website]](https://hao-shao.com/projects/viscot.html) [[dataset]](https://huggingface.co/datasets/deepcs233/Visual-CoT)
 - **[LLaVA-CoT]** Let Vision Language Models Reason Step-by-Step [[pdf]](https://arxiv.org/pdf/2411.10440) [[code]](https://github.com/PKU-YuanGroup/LLaVA-CoT) [[dataset]](https://huggingface.co/collections/Xkev/llava-cot)
+- **[LLaVA-Reasoner-DPO]** Improve Vision Language Model Chain-of-thought Reasoning [[pdf]](https://arxiv.org/pdf/2410.16198) [[code]](https://github.com/RifleZhang/LLaVA-Reasoner-DPO)
 - **[VoCoT]** Unleashing Visually Grounded Multi-Step Reasoning in Large Multi-Modal Models [[pdf]](https://arxiv.org/pdf/2405.16919) [[code]](https://github.com/RupertLuo/VoCoT) 
 - **[HoneyBee]** Data Recipes for Vision-Language Reasoners [[pdf]](https://arxiv.org/pdf/2510.12225) [[dataset]](https://huggingface.co/datasets/facebook/HoneyBee)
 - **[CoS]** Interactive Reasoning Improves Large Vision-Language Models [[pdf]](https://arxiv.org/pdf/2403.12966) [[code]](https://github.com/dongyh20/Chain-of-Spot) [[website]](https://sites.google.com/view/chain-of-spot)
@@ -117,7 +121,14 @@ An up-to-date library on all papers and codes relevant to my PhD
 - **[R1-Onevision]** Advancing Generalized Multimodal Reasoning through Cross-Modal Formalization [[pdf]](https://arxiv.org/pdf/2503.10615) [[code]](https://github.com/Fancy-MLLM/R1-Onevision)
 - **[LlamaV-o1]** Rethinking Step-by-step Visual Reasoning in LLMs [[pdf]](https://arxiv.org/pdf/2501.06186) [[code]](https://github.com/mbzuai-oryx/LlamaV-o1) [[website]](https://mbzuai-oryx.github.io/LlamaV-o1/)
 - **[Virgo]** A Preliminary Exploration on Reproducing o1-like MLLM [[pdf]](https://arxiv.org/pdf/2501.01904) [[code]](https://github.com/RUCAIBox/Virgo)
+- **[Mulberry]** Empowering MLLM with o1-like Reasoning and Reflection via Collective Monte Carlo Tree Search [[pdf]](https://openreview.net/pdf/9f7906d97cbad7d32b01e7d4c0d3b45eaebfba7c.pdf) [[code]](https://github.com/HJYao00/Mulberry) 
 - **[Insight-V]** Exploring Long-Chain Visual Reasoning with Multimodal Large Language Models [[pdf]](https://arxiv.org/pdf/2411.14432) [[code]](https://github.com/dongyh20/Insight-V)
+- **[VL-Rethinker]** Incentivizing Self-Reflection of Vision-Language Models with Reinforcement Learning [[pdf]](https://openreview.net/pdf?id=4oYxzssbVg) [[code]](https://github.com/TIGER-AI-Lab/VL-Rethinker) [[website]](https://tiger-ai-lab.github.io/VL-Rethinker/) [[dataset]](https://huggingface.co/datasets/TIGER-Lab/ViRL39K)
+- **[Perception-R1]** Pioneering Perception Policy with Reinforcement Learning [[pdf]](https://openreview.net/pdf/295cac79046d44e50b6d8b20590b41e011777405.pdf) [[code]](https://github.com/linkangheng/PR1)
+- **[MedVLM-R1]** Incentivizing Medical Reasoning Capability of Vision-Language Models (VLMs) via Reinforcement Learning [[pdf]](https://arxiv.org/pdf/2502.19634) [[code]](https://huggingface.co/JZPeterPan/MedVLM-R1)
+- **[MM-Eureka]** Exploring the Frontiers of Multimodal Reasoning with Rule-based Reinforcement Learning [[pdf]](https://arxiv.org/pdf/2503.07365) [[code]](https://github.com/ModalMinds/MM-EUREKA) [[dataset]](https://huggingface.co/datasets/FanqingM/MMK12)
+- Empowering Lightweight MLLMs with Reasoning via Long CoT SFT [[pdf]](https://arxiv.org/pdf/2509.03321v1) [[code]](https://github.com/LinYuOu/mm-math-reason)
+- SFT or RL? An Early Investigation into Training R1-Like Reasoning Large Vision-Language Models [[pdf]](https://openreview.net/pdf?id=wZI5qkQeDF) [[code]](https://github.com/UCSC-VLAA/VLAA-Thinking) [[website]](https://ucsc-vlaa.github.io/VLAA-Thinking/)
 - Multimodal Chain-of-Thought Reasoning: A Comprehensive Survey [[pdf]](https://arxiv.org/pdf/2503.12605) [[code]](https://github.com/yaotingwangofficial/Awesome-MCoT)
 
 ## VLMs with Negations
