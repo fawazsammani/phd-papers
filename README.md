@@ -73,6 +73,7 @@ An up-to-date library on all papers and codes relevant to my PhD
 - Vision Language Models are Biased [[pdf]](https://arxiv.org/pdf/2505.23941) [[code]](https://github.com/anvo25/vlms-are-biased) [[website]](https://vlmsarebiased.github.io/)
 - Unveiling Visual Perception in Language Models: An Attention Head Analysis Approach [[pdf]](https://arxiv.org/pdf/2412.18108)
 - **[LocalizationHeads]** Your Large Vision-Language Model Only Needs A Few Attention Heads For Visual Grounding [[pdf]](https://arxiv.org/pdf/2503.06287) [[code]](https://github.com/seilk/LocalizationHeads)
+- **[TokenRank]** Attention (as Discrete-Time Markov) Chains [[pdf]](https://arxiv.org/pdf/2507.17657) [[code]](https://github.com/yoterel/attention_chains_code) [[website]](https://yoterel.github.io/attention_chains/)
 - **[LLaVA-CAM]** From Redundancy to Relevance: Information Flow in LVLMs Across Reasoning Tasks [[pdf]](https://aclanthology.org/2025.naacl-long.115.pdf) [[code]](https://github.com/zhangbaijin/From-Redundancy-to-Relevance)
 - **[LFA]** Black Box Few-Shot Adaptation for Vision-Language models [[pdf]](https://arxiv.org/pdf/2304.01752) [[code]](https://github.com/saic-fi/LFA)
 - **[IPLoc]** Teaching VLMs to Localize Specific Objects from In-context Examples [[pdf]](https://arxiv.org/pdf/2411.13317) [[code]](https://github.com/SivanDoveh/IPLoc)
@@ -127,6 +128,7 @@ An up-to-date library on all papers and codes relevant to my PhD
 - **[Perception-R1]** Pioneering Perception Policy with Reinforcement Learning [[pdf]](https://openreview.net/pdf/295cac79046d44e50b6d8b20590b41e011777405.pdf) [[code]](https://github.com/linkangheng/PR1)
 - **[MedVLM-R1]** Incentivizing Medical Reasoning Capability of Vision-Language Models (VLMs) via Reinforcement Learning [[pdf]](https://arxiv.org/pdf/2502.19634) [[code]](https://huggingface.co/JZPeterPan/MedVLM-R1)
 - **[MM-Eureka]** Exploring the Frontiers of Multimodal Reasoning with Rule-based Reinforcement Learning [[pdf]](https://arxiv.org/pdf/2503.07365) [[code]](https://github.com/ModalMinds/MM-EUREKA) [[dataset]](https://huggingface.co/datasets/FanqingM/MMK12)
+- **[TTRV]** Test-Time Reinforcement Learning for Vision Language Models [[pdf]](https://arxiv.org/pdf/2510.06783) [[code]](https://github.com/Akshit21112002/TTRV) [[website]](https://akshit21112002.github.io/ttrvproject/)
 - Empowering Lightweight MLLMs with Reasoning via Long CoT SFT [[pdf]](https://arxiv.org/pdf/2509.03321v1) [[code]](https://github.com/LinYuOu/mm-math-reason)
 - SFT or RL? An Early Investigation into Training R1-Like Reasoning Large Vision-Language Models [[pdf]](https://openreview.net/pdf?id=wZI5qkQeDF) [[code]](https://github.com/UCSC-VLAA/VLAA-Thinking) [[website]](https://ucsc-vlaa.github.io/VLAA-Thinking/)
 - Multimodal Chain-of-Thought Reasoning: A Comprehensive Survey [[pdf]](https://arxiv.org/pdf/2503.12605) [[code]](https://github.com/yaotingwangofficial/Awesome-MCoT)
@@ -230,3 +232,7 @@ An up-to-date library on all papers and codes relevant to my PhD
 - Repetition Improves Language Model Embeddings [[pdf]](https://openreview.net/pdf?id=Ahlrf2HGJR)
 - When More is Less: Understanding Chain-of-Thought Length in LLMs [[pdf]](https://openreview.net/pdf?id=W8dxn7hBkO)
 - Training Large Language Models to Reason in a Continuous Latent Space [[pdf]](https://openreview.net/pdf?id=KrWSrrYGpT)
+- TTRL: Test-Time Reinforcement Learning [[pdf]](https://openreview.net/pdf?id=VuVhgEiu20) [[code]](https://github.com/PRIME-RL/TTRL)
+
+## Miscellaneous
+- [Entropy Blog](https://alessiodevoto.github.io/blog/)
