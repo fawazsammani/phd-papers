@@ -234,6 +234,7 @@ An up-to-date library on all papers and codes relevant to my PhD
 - When More is Less: Understanding Chain-of-Thought Length in LLMs [[pdf]](https://openreview.net/pdf?id=W8dxn7hBkO)
 - Training Large Language Models to Reason in a Continuous Latent Space [[pdf]](https://openreview.net/pdf?id=KrWSrrYGpT)
 - TTRL: Test-Time Reinforcement Learning [[pdf]](https://openreview.net/pdf?id=VuVhgEiu20) [[code]](https://github.com/PRIME-RL/TTRL)
+- When Attention Sink Emerges in Language Models: An Empirical View [[pdf]](https://openreview.net/pdf?id=78Nn4QJTEN) [[code]](https://github.com/sail-sg/Attention-Sink)
 - Artificial Hivemind: The Open-Ended Homogeneity of Language Models (and Beyond) [[pdf]](https://openreview.net/pdf?id=saDOrrnNTz) [[code]](https://github.com/liweijiang/artificial-hivemind) [[dataset]](https://huggingface.co/collections/liweijiang/artificial-hivemind)
 
 ## Miscellaneous
