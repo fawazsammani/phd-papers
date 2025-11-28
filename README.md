@@ -208,6 +208,7 @@ An up-to-date library on all papers and codes relevant to my PhD
 - Towards Visually Explaining Variational Autoencoders [[pdf]](https://arxiv.org/pdf/1911.07389.pdf) [[code]](https://github.com/liuem607/expVAE) [[code]](https://github.com/FrankBrongers/Reproducing_expVAE) [[video]](https://www.youtube.com/watch?v=6FqVcSAfSkI&ab_channel=ComputerVisionFoundationVideos) [[video]](https://www.youtube.com/watch?v=3XOgqhf-GZM&t=1034s&ab_channel=VipulVaibhaw)
 - Localizing Knowledge in Diffusion Transformers [[pdf]](https://arxiv.org/pdf/2505.18832) [[code]](https://github.com/ArmanZarei/DiT-Knowledge-Localization) [[website]](https://armanzarei.github.io/Localizing-Knowledge-in-DiTs/)
 - Extracting Training Data from Diffusion Models [[pdf]](https://arxiv.org/pdf/2301.13188)
+- Why Diffusion Models Don’t Memorize: The Role of Implicit Dynamical Regularization in Training [[pdf]](https://openreview.net/pdf?id=BSZqpqgqM0) [[code]](https://github.com/tbonnair/Why-Diffusion-Models-Don-t-Memorize)
 
 ## LLM Understanding
 - Interpreting GPT: The Logit Lens [[blog]](https://www.lesswrong.com/posts/AcKRB8wDpdaN6v6ru/interpreting-gpt-the-logit-lens)
@@ -233,6 +234,7 @@ An up-to-date library on all papers and codes relevant to my PhD
 - When More is Less: Understanding Chain-of-Thought Length in LLMs [[pdf]](https://openreview.net/pdf?id=W8dxn7hBkO)
 - Training Large Language Models to Reason in a Continuous Latent Space [[pdf]](https://openreview.net/pdf?id=KrWSrrYGpT)
 - TTRL: Test-Time Reinforcement Learning [[pdf]](https://openreview.net/pdf?id=VuVhgEiu20) [[code]](https://github.com/PRIME-RL/TTRL)
+- Artificial Hivemind: The Open-Ended Homogeneity of Language Models (and Beyond) [[pdf]](https://openreview.net/pdf?id=saDOrrnNTz) [[code]](https://github.com/liweijiang/artificial-hivemind) [[dataset]](https://huggingface.co/collections/liweijiang/artificial-hivemind)
 
 ## Miscellaneous
 - [Entropy Blog](https://alessiodevoto.github.io/blog/)
